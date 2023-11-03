@@ -323,11 +323,11 @@ Membuat footer dengan html
     <footer>
       <div class="kontak">
         <h2><a href="kontak.html" style="text-decoration: none;">Contact</a></h2>
-        <p>&#128383; 0812-9318-9221</p>
-        <p><a href="kontak.html" style="text-decoration: none;">&#128386; dimasf.30@mhs.pelitabangsa.ac.id</a></p>
+        <p>&#128383; 0899-9202-234</p>
+        <p><a href="kontak.html" style="text-decoration: none;">&#128386; adityawijaya0304@gmail.com</a></p>
       </div>
       <div class="lisensi">
-        <p>&copy; 2023 - Dimas Firmansyah</p>
+        <p>&copy; 2023 - Aditya Putra Wijaya</p>
       </div>
     </footer>
 ```
@@ -349,7 +349,8 @@ footer{
 
 ### Hasil Akhir
 
-![hasil13]
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/e4b3d989-2880-4871-a629-8558f5bab1f3)
+
 
 ### Tambahkan Layout untuk menu About
 ```
