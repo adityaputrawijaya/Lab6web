@@ -101,9 +101,9 @@ Membuat slideshow dengan html
       <h1 style="margin: 10px 20px;">Indonesia Emas 2045</h1>
       <!-- Slider -->
       <div class="slide">
-        <img src="gambar/indonesia1.png" alt="sam1" id="sam1">
-        <img src="gambar/indonesia2.jpg" alt="sam2" id="sam2">
-        <img src="gambar/indonesia3.jpg" alt="sam3" id="sam3">
+        <img src="indo452.jpg.crdownload" alt="sam1" id="sam1">
+        <img src="indo451.JPG" alt="sam2" id="sam2">
+        <img src="indo45.png" alt="sam3" id="sam3">
       </div>
       <div class="slider-nav">
             <a href="#sam1"></a>
