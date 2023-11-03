@@ -315,7 +315,8 @@ Kemudian tambahkan css kedalam html
 }
 ```
 ### Hasil
-<img 
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/2e09b926-28dd-4836-9fe6-f463a659d520)
+
 
 ## Membuat Footer
 Membuat footer dengan html
@@ -345,7 +346,8 @@ footer{
 }
 ```
 ### Hasil
-<img 
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/f8703ce0-bab9-4fdb-86ba-af918209256b)
+
 
 ### Hasil Akhir
 
@@ -424,10 +426,10 @@ button a{
       <div class="gambar">
         <img src="gambar/saya.png" alt="me">
       </div>
-      <h1 align="center">Dimas Firmansyah</h1><br>
+      <h1 align="center">Aditya Putra Wijaya</h1><br>
       <div class="desc">
         <p>
-          Saya, Dimas Firmansyah, merupakan salah satu mahasiswa Universitas Pelita Bangsa.
+          Saya, aditya Putra Wijaya, merupakan salah satu mahasiswa Universitas Pelita Bangsa.
         </p>
         <p>
           Saat ini, saya sedang menempuh jenjang sarjana di bidang teknik informatika, dan kami sedang mempelajari cara membuat tata letak website.
