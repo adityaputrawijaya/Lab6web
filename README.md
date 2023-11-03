@@ -151,9 +151,12 @@ Kemudian tambahkan css kedalam html
 }
 ```
 ### Hasil
-<img 
-<img 
-<img 
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/67eb9422-8206-449c-beb0-2d67ed14c850)
+
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/44741a67-630c-4a13-a9fe-ee0fde477d54)
+
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/c6e7c9bc-7dbf-4193-9763-2b1ff0936645)
+
 ## Membuat Sidebar
 Membuat sidebar dengan html
 ```
@@ -215,7 +218,8 @@ Kemudian tambahkan css kedalam html
 }
 ```
 ### Hasil
-<img 
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/af003a3a-9498-4642-89d0-b91fffd6168e)
+ 
 
 ## Membuat Main content
 Membuat main content dengan html
@@ -254,7 +258,8 @@ Kemudian tambahkan css kedalam html
 }
 ```
 ### Hasi
-<img 
+![image](https://github.com/adityaputrawijaya/Lab6web/assets/115687055/1e1c724f-ea61-44f1-bc6a-8b13bd9ef6fe)
+
 
 ## Membuat Artikel Lainnya
 Membuat more artikel dengan html
